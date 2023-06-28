@@ -1,4 +1,4 @@
-h3 {
+/* h3 {
   text-align: center;
   color: deepskyblue;
   font-style: italic;
@@ -16,3 +16,20 @@ h3 {
   padding-left: 16px;
   margin-bottom: 8px;
 }
+
+.my-rounded-left {
+  border-top-left-radius: 15px;
+  border-bottom-left-radius: 15px;
+}
+
+.my-rounded-right {
+  border-top-right-radius: 15px;
+  border-bottom-right-radius: 15px;
+}
+
+.my-rounded-all {
+  border-top-left-radius: 15px;
+  border-top-right-radius: 15px;
+  border-bottom-left-radius: 15px;
+  border-bottom-right-radius: 15px;
+} */
